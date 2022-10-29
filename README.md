@@ -9,10 +9,10 @@
     - Step2: Put the output files from previous tasks under these two directories
     - Step3: generate the keywords.txt and classes.txt
 3. run two bash file (test_movies.sh | test_news.sh)
-For example: 
-  ### ### Generating outputs ###
-  Classification (test + train) results are written in ./news/out.txt
-  Classification test results are written in ./news/test_prediction.txt
+### output example: 
+### ### Generating outputs ###
+Classification (test + train) results are written in ./news/out.txt
+Classification test results are written in ./news/test_prediction.txt
 
 
 # Best results:
