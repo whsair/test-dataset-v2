@@ -15,7 +15,7 @@
 - Classification test results are written in ./news/test_prediction.txt
 
 
-# Best results:
+# Best results (results may change):
 ## news
 labels + cnn: 0.86167 f1_macro /0.86 f1_micro on the given validation sets
 ## movies
