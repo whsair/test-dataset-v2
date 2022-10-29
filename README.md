@@ -11,12 +11,12 @@
 3. run two bash file (test_movies.sh | test_news.sh)
 ### output example: 
 ### ### Generating outputs ###
-Classification (test + train) results are written in ./news/out.txt
-Classification test results are written in ./news/test_prediction.txt
+- Classification (test + train) results are written in ./news/out.txt
+- Classification test results are written in ./news/test_prediction.txt
 
 
 # Best results:
 ## news
-labels + cnn: 0.86167/0.96 on the given validation sets
+labels + cnn: 0.86167 f1_macro /0.86 f1_micro on the given validation sets
 ## movies
-keywords + cnn  0.82985/0.83 on the given validation sets
+keywords + cnn  0.82985 f1_macro /0.83 f1_micro on the given validation sets
