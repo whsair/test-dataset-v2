@@ -4,15 +4,15 @@
 # Instruction:
 1. cd code/category_guided_classification/ (go to the code directory)
 2. run data preprocess.ipynb (I write clear instructions about how to preprocess the data in it)
-## details:
-### Step1: Create two directories to store the data
-### Step2: Put the output files from previous tasks under these two directories
-### Step3: generate the keywords.txt and classes.txt
+  ## details:
+  ### Step1: Create two directories to store the data
+  ### Step2: Put the output files from previous tasks under these two directories
+  ### Step3: generate the keywords.txt and classes.txt
 3. run two bash file (test_movies.sh | test_news.sh)
 For example: 
-### ### Generating outputs ###
-Classification (test + train) results are written in ./news/out.txt
-Classification test results are written in ./news/test_prediction.txt
+  ### ### Generating outputs ###
+  Classification (test + train) results are written in ./news/out.txt
+  Classification test results are written in ./news/test_prediction.txt
 
 
 # Best results:
